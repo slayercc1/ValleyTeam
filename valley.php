@@ -29,8 +29,8 @@
             
 			<br> <br>
             
-			   <center><font size="4"><b>Slayer - ZaRziRdA - KanNA - Keyn - Ruffluz - Tedky - Leafter - Aytlogo_Luxer - Crispusatyrus - ShadowGhostZ</b> </font></center>
-               <center><font size="4"><b>VegaS - Overdose - Angarali Joo - Wogira - 4KR3P - ALFONZO - Alt4ir - TurKLoJeN - ACE Veen - Muffin - Nattaki - Dao026</b> </font></center>
+			   <center><font size="4"><b>Slayer - ZaRziRdA - KanNA - Keyn</b> </font></center>
+               <center><font size="4"><b>Ruffluz - VegaS - Tedky - Leafter - Alfonzo - Rookie - QueeN</b> </font></center>
             
          </font></center></font></center></center></td>
       </table>
