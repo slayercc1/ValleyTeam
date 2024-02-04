@@ -29,7 +29,7 @@
             
 			<br> <br>
             
-			   <center><font size="4"><b>Slayer - ZaRziRdA - KanNA - Keyn</b> </font></center>
+			   <center><font size="4"><b>Slayer - ZaRziRdA - KanNA - Keyns</b> </font></center>
                <center><font size="4"><b>Ruffluz - VegaS - Tedky - Leafter - Alfonzo - Rookie - QueeN</b> </font></center>
             
          </font></center></font></center></center></td>
