@@ -1,7 +1,7 @@
 <!-- S L A Y E R --> 
 <html>
    <head>
-      <title>Hacked By Slayer</title>
+      <title>Hacked By ValleyTeam</title>
       <meta charset="UTF-8">
 	  <link rel="shortcut icon" href="https://i.hizliresim.com/h8g536m.png">
       <meta name="theme-color" content="#000">
@@ -24,7 +24,7 @@
          <td>
             <center>
            <img src="https://cdn.discordapp.com/attachments/1155480892651872306/1202936617602514944/tr3.png" width="260" height="230">
-			<center><br><br><font size="5"></font><br>Hacked By Slayer<br><font>
+			<center><br><br><font size="5"></font><br>Hacked By ValleyTeam<br><font>
 			<center><font size="5"></font><br>-- VALLEY COMMUNITY --<br><font>
             
 			<br> <br>
