@@ -5,10 +5,9 @@
       <meta charset="UTF-8">
 	  <link rel="shortcut icon" href="https://i.hizliresim.com/h8g536m.png">
       <meta name="theme-color" content="#000">
-      <meta name="description" content="© 𝐕𝐀𝐋𝐋𝐄𝐘 𝐂𝐎𝐌𝐌𝐔𝐍𝐈‌𝐓𝐘">
       <meta name="description" content="just a memory after i'm gone">
       <meta property="og:description" content="just a memory after i'm gone">
-	  <meta property="og:image" content="https://i.hizliresim.com/31wfbmd.png">
+	  <meta property="og:image" content="https://i.hizliresim.com/8qxvtjs.gif">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
       <link rel="stylesheet" href="https://bit.ly/2UGCIC5">
 
